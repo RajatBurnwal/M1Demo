@@ -8,5 +8,6 @@ public class GitBranchPrac {
 	public void branchPrac()
 	{
 		System.out.println("This is pushed through branch");
+		
 	}
 }
