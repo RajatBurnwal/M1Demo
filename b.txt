@@ -1,1 +1,3 @@
 This is a practice to perform pull operation
+this is first line in b.txt
+this is the second line in b.txt
